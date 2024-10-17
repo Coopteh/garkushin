@@ -1,0 +1,17 @@
+{
+    "name": "burger/krig",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Coop Teh",
+            "email": "garkushin@coopteh.ru"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
